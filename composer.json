@@ -1,0 +1,6 @@
+{
+    "name": "aws-demo",
+    "require": {
+        "aws/aws-sdk-php": "3.*"
+    }
+}
